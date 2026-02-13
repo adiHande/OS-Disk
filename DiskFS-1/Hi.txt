@@ -1,0 +1,3 @@
+Hellloo!!!
+
+This is Hello.txt inside the Apple FS!
